@@ -1,0 +1,77 @@
+body {
+    margin-top: 10%;
+    background-color: white;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.explain {
+    display: inline;
+}
+
+.timer {
+    display: inline;
+    margin-left: 30%;
+    text-align: left;
+    float: left;
+}
+
+.count {
+    display: inline;
+    margin-right: 30%;
+    text-align: right;
+    float: right;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e90ff;
+    width: 35%;
+    height: 40px;
+    margin-right: 5%;
+    border-radius: 10px;
+    text-align: center;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: 2% auto;
+    color: white;
+    border: 0 solid black;
+}
+
+.btn-primary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e90ff;
+    width: 20%;
+    height: 40px;
+    margin-right: 5%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: 3% auto;
+    color: white;
+    border: 0 solid black;
+}
